@@ -1,7 +1,2 @@
-package org.example;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello world");
-    }
-}
+// Це файл для Лабораторної роботи №1
+// Тест зміни у гілці LR_1
